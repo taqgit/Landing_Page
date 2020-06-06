@@ -1,0 +1,54 @@
+[
+{
+    "models": [
+    {
+        "id": 33143,
+        "name": "Challenger",
+        "year": 2020,
+        "makeId": 11,
+        "initialPriceDate": "2019-12-03T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33144,
+        "name": "Charger",
+        "year": 2020,
+        "makeId": 11,
+        "initialPriceDate": "2019-11-26T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33186,
+        "name": "Journey",
+        "year": 2020,
+        "makeId": 11,
+        "initialPriceDate": "2019-12-18T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32804,
+        "name": "Durango",
+        "year": 2020,
+        "makeId": 11,
+        "initialPriceDate": "2019-07-30T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-16T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33200,
+        "name": "Grand Caravan",
+        "year": 2020,
+        "makeId": 11,
+        "initialPriceDate": "2019-12-30T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

@@ -1,0 +1,134 @@
+[
+{
+    "models": [
+    {
+        "id": 31930,
+        "name": "ES",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-09-01T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-20T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31742,
+        "name": "GS",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2019-02-04T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31568,
+        "name": "GS F",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-05-23T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-01-04T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31881,
+        "name": "GX",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-08-20T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31758,
+        "name": "IS",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-10-24T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31748,
+        "name": "LC",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-11-06T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32020,
+        "name": "LS",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-10-23T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-03-07T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31893,
+        "name": "LX",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-08-23T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-03-07T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31309,
+        "name": "NX",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-05-25T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31856,
+        "name": "RC",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-08-22T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31555,
+        "name": "RC F",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-05-31T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31744,
+        "name": "RX",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-09-07T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31999,
+        "name": "UX",
+        "year": 2019,
+        "makeId": 24,
+        "initialPriceDate": "2018-10-26T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-20T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

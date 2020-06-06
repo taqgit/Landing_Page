@@ -1,0 +1,234 @@
+[
+{
+    "models": [
+    {
+        "id": 31452,
+        "name": "Bolt EV",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-05-08T07:00:00.000Z",
+        "dataEffectiveDate": "2018-08-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-16T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31565,
+        "name": "Camaro",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-06-19T07:00:00.000Z",
+        "dataEffectiveDate": "2018-09-19T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31087,
+        "name": "Corvette",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-01-09T08:00:00.000Z",
+        "dataEffectiveDate": "2018-10-04T07:00:00.000Z",
+        "dataReleaseDate": "2019-12-03T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31574,
+        "name": "Cruze",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-06-05T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-04T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31284,
+        "name": "Impala",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-04-24T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-04T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31631,
+        "name": "Malibu",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-07-31T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31260,
+        "name": "Spark",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-04-10T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-04T07:00:00.000Z",
+        "dataReleaseDate": "2019-12-03T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31534,
+        "name": "Volt",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-07-03T07:00:00.000Z",
+        "dataEffectiveDate": "2018-08-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31451,
+        "name": "Colorado",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-05-22T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31248,
+        "name": "Silverado 1500 LD",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-03-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31339,
+        "name": "Silverado 1500",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-07-03T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31306,
+        "name": "Silverado 2500HD",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-03-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31249,
+        "name": "Silverado 3500HD",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-03-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31900,
+        "name": "Blazer",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-09-11T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31302,
+        "name": "Equinox",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-04-10T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31409,
+        "name": "Suburban",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-05-08T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31408,
+        "name": "Tahoe",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-05-08T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31353,
+        "name": "Traverse",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-04-24T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31421,
+        "name": "Trax",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-05-08T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-04T07:00:00.000Z",
+        "dataReleaseDate": "2020-03-05T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31571,
+        "name": "Express Passenger",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-06-19T07:00:00.000Z",
+        "dataEffectiveDate": "2018-07-25T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-10T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31583,
+        "name": "Express Cargo Van",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-06-19T07:00:00.000Z",
+        "dataEffectiveDate": "2018-07-25T07:00:00.000Z",
+        "dataReleaseDate": "2019-12-19T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31263,
+        "name": "Silverado 3500HD CC",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-03-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31584,
+        "name": "Express Commercial Cutaway",
+        "year": 2019,
+        "makeId": 8,
+        "initialPriceDate": "2018-06-19T07:00:00.000Z",
+        "dataEffectiveDate": "2018-07-25T07:00:00.000Z",
+        "dataReleaseDate": "2020-02-28T08:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

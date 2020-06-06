@@ -1,0 +1,24 @@
+[
+{
+    "models": [
+    {
+        "id": 33377,
+        "name": "QX80",
+        "year": 2021,
+        "makeId": 18,
+        "initialPriceDate": "2020-04-08T07:00:00.000Z",
+        "dataEffectiveDate": "2020-02-11T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PRICES TO FOLLOW"
+    },
+    {
+        "id": 33383,
+        "name": "QX50",
+        "year": 2021,
+        "makeId": 18,
+        "initialPriceDate": "2020-04-16T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-20T07:00:00.000Z",
+        "dataComment": "PRICES TO FOLLOW"
+    }]
+}]

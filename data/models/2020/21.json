@@ -1,0 +1,74 @@
+[
+{
+    "models": [
+    {
+        "id": 32802,
+        "name": "Cherokee",
+        "year": 2020,
+        "makeId": 21,
+        "initialPriceDate": "2019-07-30T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-15T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32816,
+        "name": "Compass",
+        "year": 2020,
+        "makeId": 21,
+        "initialPriceDate": "2019-07-25T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32395,
+        "name": "Gladiator",
+        "year": 2020,
+        "makeId": 21,
+        "initialPriceDate": "2019-04-15T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-18T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32790,
+        "name": "Grand Cherokee",
+        "year": 2020,
+        "makeId": 21,
+        "initialPriceDate": "2019-07-29T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-17T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32700,
+        "name": "Renegade",
+        "year": 2020,
+        "makeId": 21,
+        "initialPriceDate": "2019-06-25T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32849,
+        "name": "Wrangler",
+        "year": 2020,
+        "makeId": 21,
+        "initialPriceDate": "2019-08-09T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-18T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32850,
+        "name": "Wrangler Unlimited",
+        "year": 2020,
+        "makeId": 21,
+        "initialPriceDate": "2019-08-09T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-18T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

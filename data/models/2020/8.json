@@ -1,0 +1,204 @@
+[
+{
+    "models": [
+    {
+        "id": 32592,
+        "name": "Bolt EV",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-06-25T07:00:00.000Z",
+        "dataEffectiveDate": "2019-09-25T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-16T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32481,
+        "name": "Camaro",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-07-09T07:00:00.000Z",
+        "dataEffectiveDate": "2019-09-18T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32750,
+        "name": "Corvette",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-07-31T07:00:00.000Z",
+        "dataEffectiveDate": "2019-12-11T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32595,
+        "name": "Impala",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-07-02T07:00:00.000Z",
+        "dataEffectiveDate": "2019-09-25T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-20T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32385,
+        "name": "Malibu",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-04-23T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-10T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32237,
+        "name": "Spark",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-03-26T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-05T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32407,
+        "name": "Colorado",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-05-21T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-14T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32446,
+        "name": "Silverado 1500",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-05-28T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-20T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32233,
+        "name": "Silverado 2500HD",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-03-12T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32210,
+        "name": "Silverado 3500HD",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-03-12T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-20T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32584,
+        "name": "Blazer",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-06-18T07:00:00.000Z",
+        "dataEffectiveDate": "2019-12-18T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32321,
+        "name": "Equinox",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-04-23T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-05T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32338,
+        "name": "Suburban",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-05-07T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-24T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32339,
+        "name": "Tahoe",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-05-07T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-24T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32308,
+        "name": "Traverse",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-04-23T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-17T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32342,
+        "name": "Trax",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-04-23T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-31T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32665,
+        "name": "Express Passenger",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-07-02T07:00:00.000Z",
+        "dataEffectiveDate": "2019-09-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32641,
+        "name": "Express Cargo Van",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-07-02T07:00:00.000Z",
+        "dataEffectiveDate": "2019-09-04T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32220,
+        "name": "Silverado 3500HD CC",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-03-26T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32643,
+        "name": "Express Commercial Cutaway",
+        "year": 2020,
+        "makeId": 8,
+        "initialPriceDate": "2019-07-02T07:00:00.000Z",
+        "dataEffectiveDate": "2019-09-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

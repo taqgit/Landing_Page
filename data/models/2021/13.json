@@ -1,0 +1,44 @@
+[
+{
+    "models": [
+    {
+        "id": 33306,
+        "name": "Transit Connect Wagon",
+        "year": 2021,
+        "makeId": 13,
+        "initialPriceDate": "2020-03-13T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-05T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": "PLC 115"
+    },
+    {
+        "id": 33305,
+        "name": "Transit Connect Van",
+        "year": 2021,
+        "makeId": 13,
+        "initialPriceDate": "2020-03-13T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-05T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": "PLC 115"
+    },
+    {
+        "id": 33046,
+        "name": "E-Series Cutaway",
+        "year": 2021,
+        "makeId": 13,
+        "initialPriceDate": "2019-10-07T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-08T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": "PLC 125"
+    },
+    {
+        "id": 33048,
+        "name": "E-Series Stripped Chassis",
+        "year": 2021,
+        "makeId": 13,
+        "initialPriceDate": "2019-10-07T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-08T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": "PLC 125"
+    }]
+}]

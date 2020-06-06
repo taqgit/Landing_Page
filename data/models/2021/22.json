@@ -1,0 +1,34 @@
+[
+{
+    "models": [
+    {
+        "id": 33231,
+        "name": "Seltos",
+        "year": 2021,
+        "makeId": 22,
+        "initialPriceDate": "2020-01-27T08:00:00.000Z",
+        "dataEffectiveDate": "2020-02-10T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33271,
+        "name": "Soul",
+        "year": 2021,
+        "makeId": 22,
+        "initialPriceDate": "2020-02-21T08:00:00.000Z",
+        "dataEffectiveDate": "2020-02-13T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33379,
+        "name": "Soul EV",
+        "year": 2021,
+        "makeId": 22,
+        "initialPriceDate": "2020-04-08T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

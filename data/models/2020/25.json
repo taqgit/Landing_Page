@@ -1,0 +1,74 @@
+[
+{
+    "models": [
+    {
+        "id": 32198,
+        "name": "Aviator",
+        "year": 2020,
+        "makeId": 25,
+        "initialPriceDate": "2019-02-05T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32805,
+        "name": "Continental",
+        "year": 2020,
+        "makeId": 25,
+        "initialPriceDate": "2019-08-02T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-19T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32613,
+        "name": "Corsair",
+        "year": 2020,
+        "makeId": 25,
+        "initialPriceDate": "2019-06-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-11-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32568,
+        "name": "MKZ",
+        "year": 2020,
+        "makeId": 25,
+        "initialPriceDate": "2019-05-28T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-13T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32895,
+        "name": "Nautilus",
+        "year": 2020,
+        "makeId": 25,
+        "initialPriceDate": "2019-08-22T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-10T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32798,
+        "name": "Navigator",
+        "year": 2020,
+        "makeId": 25,
+        "initialPriceDate": "2019-07-25T07:00:00.000Z",
+        "dataEffectiveDate": "2019-11-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-16T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32799,
+        "name": "Navigator L",
+        "year": 2020,
+        "makeId": 25,
+        "initialPriceDate": "2019-07-25T07:00:00.000Z",
+        "dataEffectiveDate": "2019-11-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-16T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    }]
+}]

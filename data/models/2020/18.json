@@ -1,0 +1,54 @@
+[
+{
+    "models": [
+    {
+        "id": 32773,
+        "name": "Q50",
+        "year": 2020,
+        "makeId": 18,
+        "initialPriceDate": "2019-07-16T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-31T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32828,
+        "name": "Q60",
+        "year": 2020,
+        "makeId": 18,
+        "initialPriceDate": "2019-08-02T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-31T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32762,
+        "name": "QX50",
+        "year": 2020,
+        "makeId": 18,
+        "initialPriceDate": "2019-07-09T07:00:00.000Z",
+        "dataEffectiveDate": "2019-10-22T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-16T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32488,
+        "name": "QX60",
+        "year": 2020,
+        "makeId": 18,
+        "initialPriceDate": "2019-05-07T07:00:00.000Z",
+        "dataEffectiveDate": "2020-02-28T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32696,
+        "name": "QX80",
+        "year": 2020,
+        "makeId": 18,
+        "initialPriceDate": "2019-06-26T07:00:00.000Z",
+        "dataEffectiveDate": "2019-11-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

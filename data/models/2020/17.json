@@ -1,0 +1,154 @@
+[
+{
+    "models": [
+    {
+        "id": 32726,
+        "name": "Accent",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-07-25T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-02T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32484,
+        "name": "Elantra",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-05-10T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32897,
+        "name": "Elantra GT",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-09-17T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-02T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33227,
+        "name": "IONIQ Electric",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2020-01-22T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-22T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33212,
+        "name": "IONIQ Electric Plus",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2020-01-14T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33211,
+        "name": "IONIQ Hybrid",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2020-01-14T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32844,
+        "name": "Kona",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-08-19T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33077,
+        "name": "Kona Electric",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-11-05T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-02T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32766,
+        "name": "Palisade",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-07-08T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-02T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32819,
+        "name": "Santa Fe",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-08-15T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-02T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33255,
+        "name": "Sonata",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2020-02-10T08:00:00.000Z",
+        "dataEffectiveDate": "2019-11-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32916,
+        "name": "Tucson",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-09-05T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-02T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32610,
+        "name": "Veloster",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-06-03T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-02T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-05T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32611,
+        "name": "Veloster N",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-06-03T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-02T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33165,
+        "name": "Venue",
+        "year": 2020,
+        "makeId": 17,
+        "initialPriceDate": "2019-12-10T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-05T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

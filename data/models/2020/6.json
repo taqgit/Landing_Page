@@ -1,0 +1,54 @@
+[
+{
+    "models": [
+    {
+        "id": 32346,
+        "name": "Enclave",
+        "year": 2020,
+        "makeId": 6,
+        "initialPriceDate": "2019-04-23T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-10T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32330,
+        "name": "Encore",
+        "year": 2020,
+        "makeId": 6,
+        "initialPriceDate": "2019-04-23T07:00:00.000Z",
+        "dataEffectiveDate": "2019-10-09T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32777,
+        "name": "Encore GX",
+        "year": 2020,
+        "makeId": 6,
+        "initialPriceDate": "2019-08-06T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-22T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32166,
+        "name": "Envision",
+        "year": 2020,
+        "makeId": 6,
+        "initialPriceDate": "2019-01-29T08:00:00.000Z",
+        "dataEffectiveDate": "2019-05-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32314,
+        "name": "Regal Sportback",
+        "year": 2020,
+        "makeId": 6,
+        "initialPriceDate": "2019-04-23T07:00:00.000Z",
+        "dataEffectiveDate": "2019-10-30T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

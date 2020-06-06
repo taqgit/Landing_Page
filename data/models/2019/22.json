@@ -1,0 +1,164 @@
+[
+{
+    "models": [
+    {
+        "id": 32068,
+        "name": "Cadenza",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-10-20T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-01-17T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32015,
+        "name": "Forte",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-09-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-02-11T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32045,
+        "name": "Niro",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-10-09T07:00:00.000Z",
+        "dataEffectiveDate": "2018-09-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32453,
+        "name": "Niro EV",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2019-05-05T07:00:00.000Z",
+        "dataEffectiveDate": "2019-04-18T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32067,
+        "name": "Niro Plug-In Hybrid",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-10-20T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31788,
+        "name": "Optima",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-07-25T07:00:00.000Z",
+        "dataEffectiveDate": "2018-07-18T07:00:00.000Z",
+        "dataReleaseDate": "2020-01-09T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31946,
+        "name": "Optima Hybrid",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-09-01T07:00:00.000Z",
+        "dataEffectiveDate": "2018-08-24T07:00:00.000Z",
+        "dataReleaseDate": "2020-01-09T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32633,
+        "name": "Optima PHEV",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2019-06-06T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-09T07:00:00.000Z",
+        "dataReleaseDate": "2020-02-21T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32082,
+        "name": "Rio",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-10-24T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-17T07:00:00.000Z",
+        "dataReleaseDate": "2020-02-11T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32083,
+        "name": "Rio 5-door",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-10-24T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-17T07:00:00.000Z",
+        "dataReleaseDate": "2020-02-11T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31504,
+        "name": "Sedona",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-05-10T07:00:00.000Z",
+        "dataEffectiveDate": "2018-04-25T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31388,
+        "name": "Sorento",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-04-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-14T08:00:00.000Z",
+        "dataReleaseDate": "2020-03-05T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31543,
+        "name": "Soul",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-05-17T07:00:00.000Z",
+        "dataEffectiveDate": "2018-05-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-01-04T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31948,
+        "name": "Soul EV",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-09-01T07:00:00.000Z",
+        "dataEffectiveDate": "2018-08-24T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31598,
+        "name": "Sportage",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-06-14T07:00:00.000Z",
+        "dataEffectiveDate": "2018-05-28T07:00:00.000Z",
+        "dataReleaseDate": "2020-01-04T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31898,
+        "name": "Stinger",
+        "year": 2019,
+        "makeId": 22,
+        "initialPriceDate": "2018-08-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-04-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-02T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

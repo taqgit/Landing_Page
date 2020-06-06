@@ -1,0 +1,14 @@
+[
+{
+    "models": [
+    {
+        "id": 33359,
+        "name": "911",
+        "year": 2021,
+        "makeId": 34,
+        "initialPriceDate": "2020-04-03T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-18T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-16T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

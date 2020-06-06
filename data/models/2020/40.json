@@ -1,0 +1,84 @@
+[
+{
+    "models": [
+    {
+        "id": 33079,
+        "name": "Arteon",
+        "year": 2020,
+        "makeId": 40,
+        "initialPriceDate": "2019-10-30T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33083,
+        "name": "Atlas Cross Sport",
+        "year": 2020,
+        "makeId": 40,
+        "initialPriceDate": "2019-11-04T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32704,
+        "name": "e-Golf",
+        "year": 2020,
+        "makeId": 40,
+        "initialPriceDate": "2019-06-26T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33081,
+        "name": "Golf",
+        "year": 2020,
+        "makeId": 40,
+        "initialPriceDate": "2019-11-06T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33084,
+        "name": "Golf GTI",
+        "year": 2020,
+        "makeId": 40,
+        "initialPriceDate": "2019-11-04T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33085,
+        "name": "Jetta",
+        "year": 2020,
+        "makeId": 40,
+        "initialPriceDate": "2019-10-30T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32686,
+        "name": "Passat",
+        "year": 2020,
+        "makeId": 40,
+        "initialPriceDate": "2019-06-24T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32692,
+        "name": "Tiguan",
+        "year": 2020,
+        "makeId": 40,
+        "initialPriceDate": "2019-06-21T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

@@ -1,0 +1,7 @@
+/node_modules
+/.sass-cache
+/.vscode
+/package-lock.json
+/design
+.DS_Store
+.idea

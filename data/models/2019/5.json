@@ -1,0 +1,224 @@
+[
+{
+    "models": [
+    {
+        "id": 31736,
+        "name": "2 Series",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-07-11T07:00:00.000Z",
+        "dataEffectiveDate": "2018-07-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31760,
+        "name": "3 Series",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-07-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-09T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31192,
+        "name": "4 Series",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-02-21T08:00:00.000Z",
+        "dataEffectiveDate": "2019-02-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-03-05T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31812,
+        "name": "5 Series",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-08-02T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31314,
+        "name": "6 Series",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-03-22T07:00:00.000Z",
+        "dataEffectiveDate": "2018-07-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31283,
+        "name": "7 Series",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-03-06T08:00:00.000Z",
+        "dataEffectiveDate": "2018-12-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32007,
+        "name": "8 Series",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-09-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32092,
+        "name": "i3",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-11-07T08:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32199,
+        "name": "i8",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2019-02-05T08:00:00.000Z",
+        "dataEffectiveDate": "2018-08-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31989,
+        "name": "M2",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-09-19T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-01T08:00:00.000Z",
+        "dataReleaseDate": "2019-12-20T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32234,
+        "name": "M4",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2019-02-17T08:00:00.000Z",
+        "dataEffectiveDate": "2018-08-10T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31590,
+        "name": "M5",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-06-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31319,
+        "name": "M6",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-03-22T07:00:00.000Z",
+        "dataEffectiveDate": "2018-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32149,
+        "name": "X1",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-12-18T08:00:00.000Z",
+        "dataEffectiveDate": "2018-11-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-03-05T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32231,
+        "name": "X2",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2019-02-25T08:00:00.000Z",
+        "dataEffectiveDate": "2018-11-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31737,
+        "name": "X3",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-07-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31791,
+        "name": "X4",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-07-24T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31968,
+        "name": "X5",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-09-10T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31734,
+        "name": "X6",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-07-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-28T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31735,
+        "name": "X6 M",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-07-11T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-28T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32141,
+        "name": "X7",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2018-12-17T08:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32203,
+        "name": "Z4",
+        "year": 2019,
+        "makeId": 5,
+        "initialPriceDate": "2019-02-05T08:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

@@ -1,0 +1,74 @@
+[
+{
+    "models": [
+    {
+        "id": 33282,
+        "name": "Camaro",
+        "year": 2021,
+        "makeId": 8,
+        "initialPriceDate": "2020-03-24T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-23T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": "PRICES TO FOLLOW"
+    },
+    {
+        "id": 33263,
+        "name": "Spark",
+        "year": 2021,
+        "makeId": 8,
+        "initialPriceDate": "2020-03-10T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-09T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PRICES TO FOLLOW"
+    },
+    {
+        "id": 33214,
+        "name": "Colorado",
+        "year": 2021,
+        "makeId": 8,
+        "initialPriceDate": "2020-01-28T08:00:00.000Z",
+        "dataEffectiveDate": "2020-04-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33256,
+        "name": "Suburban",
+        "year": 2021,
+        "makeId": 8,
+        "initialPriceDate": "2020-02-18T08:00:00.000Z",
+        "dataEffectiveDate": "2020-04-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33267,
+        "name": "Tahoe",
+        "year": 2021,
+        "makeId": 8,
+        "initialPriceDate": "2020-02-18T08:00:00.000Z",
+        "dataEffectiveDate": "2020-04-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33103,
+        "name": "Trailblazer",
+        "year": 2021,
+        "makeId": 8,
+        "initialPriceDate": "2019-12-03T08:00:00.000Z",
+        "dataEffectiveDate": "2020-02-21T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33258,
+        "name": "Trax",
+        "year": 2021,
+        "makeId": 8,
+        "initialPriceDate": "2020-02-25T08:00:00.000Z",
+        "dataEffectiveDate": "2020-02-24T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": "PRICES TO FOLLOW"
+    }]
+}]

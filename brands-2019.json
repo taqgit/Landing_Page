@@ -1,0 +1,48 @@
+[
+{
+    "brands": [
+    {
+        "id": 5,
+        "name": "BMW"
+    },
+    {
+        "id": 6,
+        "name": "Buick"
+    },
+    {
+        "id": 8,
+        "name": "Chevrolet"
+    },
+    {
+        "id": 13,
+        "name": "Ford"
+    },
+    {
+        "id": 15,
+        "name": "GMC"
+    },
+    {
+        "id": 20,
+        "name": "Jaguar"
+    },
+    {
+        "id": 22,
+        "name": "Kia"
+    },
+    {
+        "id": 2,
+        "name": "MINI"
+    },
+    {
+        "id": 30,
+        "name": "Nissan"
+    },
+    {
+        "id": 39,
+        "name": "Toyota"
+    },
+    {
+        "id": 40,
+        "name": "Volkswagen"
+    }]
+}]

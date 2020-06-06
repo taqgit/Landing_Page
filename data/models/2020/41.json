@@ -1,0 +1,74 @@
+[
+{
+    "models": [
+    {
+        "id": 32528,
+        "name": "S60",
+        "year": 2020,
+        "makeId": 41,
+        "initialPriceDate": "2019-06-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32422,
+        "name": "S90",
+        "year": 2020,
+        "makeId": 41,
+        "initialPriceDate": "2019-06-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32519,
+        "name": "V60",
+        "year": 2020,
+        "makeId": 41,
+        "initialPriceDate": "2019-06-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32516,
+        "name": "V60 Cross Country",
+        "year": 2020,
+        "makeId": 41,
+        "initialPriceDate": "2019-06-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32527,
+        "name": "XC40",
+        "year": 2020,
+        "makeId": 41,
+        "initialPriceDate": "2019-06-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32420,
+        "name": "XC60",
+        "year": 2020,
+        "makeId": 41,
+        "initialPriceDate": "2019-06-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32445,
+        "name": "XC90",
+        "year": 2020,
+        "makeId": 41,
+        "initialPriceDate": "2019-06-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

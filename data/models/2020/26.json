@@ -1,0 +1,94 @@
+[
+{
+    "models": [
+    {
+        "id": 32913,
+        "name": "Mazda3",
+        "year": 2020,
+        "makeId": 26,
+        "initialPriceDate": "2019-12-05T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32914,
+        "name": "Mazda3 Sport",
+        "year": 2020,
+        "makeId": 26,
+        "initialPriceDate": "2019-09-06T07:00:00.000Z",
+        "dataEffectiveDate": "2019-12-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32948,
+        "name": "Mazda6",
+        "year": 2020,
+        "makeId": 26,
+        "initialPriceDate": "2019-11-26T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33121,
+        "name": "MX-5",
+        "year": 2020,
+        "makeId": 26,
+        "initialPriceDate": "2020-01-22T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33123,
+        "name": "MX-5 RF",
+        "year": 2020,
+        "makeId": 26,
+        "initialPriceDate": "2020-02-07T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32940,
+        "name": "CX-3",
+        "year": 2020,
+        "makeId": 26,
+        "initialPriceDate": "2019-11-07T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-10T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33131,
+        "name": "CX-30",
+        "year": 2020,
+        "makeId": 26,
+        "initialPriceDate": "2020-01-13T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-10T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32951,
+        "name": "CX-5",
+        "year": 2020,
+        "makeId": 26,
+        "initialPriceDate": "2019-11-26T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-10T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-16T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33080,
+        "name": "CX-9",
+        "year": 2020,
+        "makeId": 26,
+        "initialPriceDate": "2019-12-05T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

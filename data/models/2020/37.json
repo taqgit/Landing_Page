@@ -1,0 +1,94 @@
+[
+{
+    "models": [
+    {
+        "id": 32672,
+        "name": "Ascent",
+        "year": 2020,
+        "makeId": 37,
+        "initialPriceDate": "2019-06-19T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32878,
+        "name": "BRZ",
+        "year": 2020,
+        "makeId": 37,
+        "initialPriceDate": "2019-09-11T07:00:00.000Z",
+        "dataEffectiveDate": "2020-02-13T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33054,
+        "name": "Crosstrek",
+        "year": 2020,
+        "makeId": 37,
+        "initialPriceDate": "2019-10-15T07:00:00.000Z",
+        "dataEffectiveDate": "2019-10-02T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33156,
+        "name": "Crosstrek Plug-in Hybrid",
+        "year": 2020,
+        "makeId": 37,
+        "initialPriceDate": "2020-01-21T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-20T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32825,
+        "name": "Forester",
+        "year": 2020,
+        "makeId": 37,
+        "initialPriceDate": "2019-09-04T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-21T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33005,
+        "name": "Impreza",
+        "year": 2020,
+        "makeId": 37,
+        "initialPriceDate": "2019-10-15T07:00:00.000Z",
+        "dataEffectiveDate": "2019-10-02T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32722,
+        "name": "Legacy",
+        "year": 2020,
+        "makeId": 37,
+        "initialPriceDate": "2019-08-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-10T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32745,
+        "name": "Outback",
+        "year": 2020,
+        "makeId": 37,
+        "initialPriceDate": "2019-08-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-10T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32938,
+        "name": "WRX",
+        "year": 2020,
+        "makeId": 37,
+        "initialPriceDate": "2019-09-12T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-09T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-15T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

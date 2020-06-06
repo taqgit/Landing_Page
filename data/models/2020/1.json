@@ -1,0 +1,64 @@
+[
+{
+    "models": [
+    {
+        "id": 33099,
+        "name": "ILX",
+        "year": 2020,
+        "makeId": 1,
+        "initialPriceDate": "2019-11-06T08:00:00.000Z",
+        "dataEffectiveDate": "2019-10-17T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32300,
+        "name": "MDX",
+        "year": 2020,
+        "makeId": 1,
+        "initialPriceDate": "2019-08-22T07:00:00.000Z",
+        "dataEffectiveDate": "2020-02-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-17T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33244,
+        "name": "NSX",
+        "year": 2020,
+        "makeId": 1,
+        "initialPriceDate": "2020-01-29T08:00:00.000Z",
+        "dataEffectiveDate": "2019-10-07T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-17T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32674,
+        "name": "RDX",
+        "year": 2020,
+        "makeId": 1,
+        "initialPriceDate": "2019-06-18T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-16T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32863,
+        "name": "RLX",
+        "year": 2020,
+        "makeId": 1,
+        "initialPriceDate": "2019-08-14T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-17T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32297,
+        "name": "TLX",
+        "year": 2020,
+        "makeId": 1,
+        "initialPriceDate": "2019-05-29T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-02T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

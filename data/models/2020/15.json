@@ -1,0 +1,124 @@
+[
+{
+    "models": [
+    {
+        "id": 32409,
+        "name": "Canyon",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-05-21T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-14T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32417,
+        "name": "Sierra 1500",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-05-21T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32250,
+        "name": "Sierra 2500HD",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-03-12T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32211,
+        "name": "Sierra 3500HD",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-03-12T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32496,
+        "name": "Acadia",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-06-04T07:00:00.000Z",
+        "dataEffectiveDate": "2019-11-20T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32401,
+        "name": "Terrain",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-04-23T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32358,
+        "name": "Yukon",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-05-07T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-24T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32359,
+        "name": "Yukon XL",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-05-07T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-24T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32666,
+        "name": "Savana Passenger",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-07-02T07:00:00.000Z",
+        "dataEffectiveDate": "2019-09-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32642,
+        "name": "Savana Cargo Van",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-07-02T07:00:00.000Z",
+        "dataEffectiveDate": "2019-09-04T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32221,
+        "name": "Sierra 3500HD CC",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-03-26T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32644,
+        "name": "Savana Commercial Cutaway",
+        "year": 2020,
+        "makeId": 15,
+        "initialPriceDate": "2019-07-02T07:00:00.000Z",
+        "dataEffectiveDate": "2019-09-11T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

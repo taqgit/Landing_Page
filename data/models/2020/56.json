@@ -1,0 +1,34 @@
+[
+{
+    "models": [
+    {
+        "id": 33233,
+        "name": "Model 3",
+        "year": 2020,
+        "makeId": 56,
+        "initialPriceDate": "2020-01-22T08:00:00.000Z",
+        "dataEffectiveDate": "2020-04-06T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33237,
+        "name": "Model S",
+        "year": 2020,
+        "makeId": 56,
+        "initialPriceDate": "2020-01-23T08:00:00.000Z",
+        "dataEffectiveDate": "2020-04-06T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33229,
+        "name": "Model X",
+        "year": 2020,
+        "makeId": 56,
+        "initialPriceDate": "2020-01-27T08:00:00.000Z",
+        "dataEffectiveDate": "2020-04-06T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

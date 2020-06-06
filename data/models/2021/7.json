@@ -1,0 +1,24 @@
+[
+{
+    "models": [
+    {
+        "id": 33361,
+        "name": "Escalade",
+        "year": 2021,
+        "makeId": 7,
+        "initialPriceDate": "2020-04-21T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-20T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": "PRICES TO FOLLOW"
+    },
+    {
+        "id": 33378,
+        "name": "Escalade ESV",
+        "year": 2021,
+        "makeId": 7,
+        "initialPriceDate": "2020-04-21T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-20T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": "PRICES TO FOLLOW"
+    }]
+}]

@@ -1,0 +1,14 @@
+[
+{
+    "models": [
+    {
+        "id": 33183,
+        "name": "F-TYPE",
+        "year": 2021,
+        "makeId": 20,
+        "initialPriceDate": "2019-12-17T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-06T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

@@ -1,0 +1,74 @@
+[
+{
+    "models": [
+    {
+        "id": 33024,
+        "name": "Defender",
+        "year": 2020,
+        "makeId": 23,
+        "initialPriceDate": "2019-09-25T07:00:00.000Z",
+        "dataEffectiveDate": "2020-02-13T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32634,
+        "name": "Discovery",
+        "year": 2020,
+        "makeId": 23,
+        "initialPriceDate": "2019-06-07T07:00:00.000Z",
+        "dataEffectiveDate": "2019-12-13T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32640,
+        "name": "Discovery Sport",
+        "year": 2020,
+        "makeId": 23,
+        "initialPriceDate": "2019-06-07T07:00:00.000Z",
+        "dataEffectiveDate": "2019-10-25T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32560,
+        "name": "Range Rover",
+        "year": 2020,
+        "makeId": 23,
+        "initialPriceDate": "2019-05-27T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-20T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32143,
+        "name": "Range Rover Evoque",
+        "year": 2020,
+        "makeId": 23,
+        "initialPriceDate": "2018-12-19T08:00:00.000Z",
+        "dataEffectiveDate": "2019-11-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32526,
+        "name": "Range Rover Sport",
+        "year": 2020,
+        "makeId": 23,
+        "initialPriceDate": "2019-05-24T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-20T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32563,
+        "name": "Range Rover Velar",
+        "year": 2020,
+        "makeId": 23,
+        "initialPriceDate": "2019-05-24T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-13T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

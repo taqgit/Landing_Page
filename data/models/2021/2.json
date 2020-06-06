@@ -1,0 +1,34 @@
+[
+{
+    "models": [
+    {
+        "id": 33179,
+        "name": "3 Door",
+        "year": 2021,
+        "makeId": 2,
+        "initialPriceDate": "2020-02-12T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33265,
+        "name": "5 Door",
+        "year": 2021,
+        "makeId": 2,
+        "initialPriceDate": "2020-02-14T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33272,
+        "name": "Convertible",
+        "year": 2021,
+        "makeId": 2,
+        "initialPriceDate": "2020-02-25T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

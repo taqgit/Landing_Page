@@ -1,0 +1,74 @@
+[
+{
+    "models": [
+    {
+        "id": 31754,
+        "name": "Q50",
+        "year": 2019,
+        "makeId": 18,
+        "initialPriceDate": "2018-07-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-02-01T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31864,
+        "name": "Q60",
+        "year": 2019,
+        "makeId": 18,
+        "initialPriceDate": "2018-08-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-02T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31300,
+        "name": "Q70",
+        "year": 2019,
+        "makeId": 18,
+        "initialPriceDate": "2018-03-08T08:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-02T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31301,
+        "name": "Q70L",
+        "year": 2019,
+        "makeId": 18,
+        "initialPriceDate": "2018-03-08T08:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-02T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31257,
+        "name": "QX50",
+        "year": 2019,
+        "makeId": 18,
+        "initialPriceDate": "2018-03-16T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-16T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31486,
+        "name": "QX60",
+        "year": 2019,
+        "makeId": 18,
+        "initialPriceDate": "2018-05-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-03T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31546,
+        "name": "QX80",
+        "year": 2019,
+        "makeId": 18,
+        "initialPriceDate": "2018-05-22T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-03T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

@@ -1,0 +1,134 @@
+[
+{
+    "models": [
+    {
+        "id": 32781,
+        "name": "ProMaster Cargo Van",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-07-15T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-07T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32721,
+        "name": "ProMaster City Cargo Van",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-07-03T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-03-25T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32744,
+        "name": "ProMaster Window Van",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-06-28T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-03-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33152,
+        "name": "3500 Chassis",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-12-05T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-16T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33145,
+        "name": "4500 Chassis",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-12-05T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-16T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33146,
+        "name": "5500 Chassis",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-12-06T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-16T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32732,
+        "name": "ProMaster Chassis Cab",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-06-28T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-05T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33182,
+        "name": "1500 Classic",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-12-20T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32776,
+        "name": "1500",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-07-17T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33134,
+        "name": "2500",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-11-26T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-24T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33142,
+        "name": "3500",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-11-27T08:00:00.000Z",
+        "dataEffectiveDate": "2020-03-24T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32731,
+        "name": "ProMaster Cutaway",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-06-28T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-05T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32756,
+        "name": "ProMaster City Wagon",
+        "year": 2020,
+        "makeId": 57,
+        "initialPriceDate": "2019-07-03T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-12T07:00:00.000Z",
+        "dataReleaseDate": "2020-03-25T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

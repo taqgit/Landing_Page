@@ -1,0 +1,294 @@
+[
+{
+    "models": [
+    {
+        "id": 32787,
+        "name": "Edge",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-07-29T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32548,
+        "name": "Fusion",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-05-24T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32549,
+        "name": "Fusion Energi",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-05-24T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-31T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32550,
+        "name": "Fusion Hybrid",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-05-24T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32536,
+        "name": "Mustang",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-05-24T07:00:00.000Z",
+        "dataEffectiveDate": "2020-02-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32784,
+        "name": "F-150",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-07-17T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32903,
+        "name": "Ranger",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-09-04T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32882,
+        "name": "Super Duty F-250 SRW",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-08-29T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32868,
+        "name": "Super Duty F-350 DRW",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-08-29T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32869,
+        "name": "Super Duty F-350 SRW",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-08-29T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32867,
+        "name": "Super Duty F-450 DRW",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-08-30T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-24T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32352,
+        "name": "EcoSport",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-04-09T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 020"
+    },
+    {
+        "id": 32567,
+        "name": "Escape",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-05-28T07:00:00.000Z",
+        "dataEffectiveDate": "2019-12-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-15T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32808,
+        "name": "Expedition",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-08-07T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32441,
+        "name": "Explorer",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-04-25T07:00:00.000Z",
+        "dataEffectiveDate": "2019-11-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32258,
+        "name": "Transit Connect Wagon",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-02-27T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32751,
+        "name": "Transit Passenger Wagon",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-07-22T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": "PLC 020"
+    },
+    {
+        "id": 32748,
+        "name": "Transit Cargo Van",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-07-18T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-28T07:00:00.000Z",
+        "dataComment": "PLC 020"
+    },
+    {
+        "id": 32257,
+        "name": "Transit Connect Van",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-02-27T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-15T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32749,
+        "name": "Transit Crew Van",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-07-19T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 020"
+    },
+    {
+        "id": 33307,
+        "name": "Super Duty F-600 DRW",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2020-03-16T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-10T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32879,
+        "name": "Super Duty F-350 DRW",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-09-09T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32880,
+        "name": "Super Duty F-350 SRW",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-09-09T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32881,
+        "name": "Super Duty F-450 DRW",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-09-04T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 32856,
+        "name": "Super Duty F-550 DRW",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-09-09T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 025"
+    },
+    {
+        "id": 33025,
+        "name": "F-53 Motorhome Stripped Chassis",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-09-25T07:00:00.000Z",
+        "dataEffectiveDate": "2020-02-25T08:00:00.000Z",
+        "dataReleaseDate": "2020-03-11T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 33017,
+        "name": "F-59 Commercial Stripped Chassis",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-09-25T07:00:00.000Z",
+        "dataEffectiveDate": "2020-02-25T08:00:00.000Z",
+        "dataReleaseDate": "2020-03-11T07:00:00.000Z",
+        "dataComment": "PLC 015"
+    },
+    {
+        "id": 32727,
+        "name": "Transit Chassis Cab",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-07-26T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 020"
+    },
+    {
+        "id": 32728,
+        "name": "Transit Cutaway",
+        "year": 2020,
+        "makeId": 13,
+        "initialPriceDate": "2019-07-26T07:00:00.000Z",
+        "dataEffectiveDate": "2020-03-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 020"
+    }]
+}]

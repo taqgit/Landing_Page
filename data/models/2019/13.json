@@ -1,0 +1,334 @@
+[
+{
+    "models": [
+    {
+        "id": 31655,
+        "name": "Edge",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-06-26T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31653,
+        "name": "Fiesta",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-06-24T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": "PLC 920"
+    },
+    {
+        "id": 31202,
+        "name": "Flex",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-03-01T08:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31938,
+        "name": "Fusion",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-08-29T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": "PLC 920"
+    },
+    {
+        "id": 31704,
+        "name": "Fusion Energi",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-06-28T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": "PLC 920"
+    },
+    {
+        "id": 31939,
+        "name": "Fusion Hybrid",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-08-29T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": "PLC 920"
+    },
+    {
+        "id": 31331,
+        "name": "Mustang",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-03-22T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31488,
+        "name": "Special Service Plug-In Hybrid",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-03T07:00:00.000Z",
+        "dataEffectiveDate": "2019-02-15T08:00:00.000Z",
+        "dataReleaseDate": "2019-11-16T08:00:00.000Z",
+        "dataComment": "PRICES TO FOLLOW"
+    },
+    {
+        "id": 31633,
+        "name": "Taurus",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-06-20T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-14T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": "PLC 920"
+    },
+    {
+        "id": 31949,
+        "name": "F-150",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-09-04T07:00:00.000Z",
+        "dataEffectiveDate": "2019-12-23T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 940"
+    },
+    {
+        "id": 31990,
+        "name": "Ranger",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-09-22T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-22T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 930"
+    },
+    {
+        "id": 31481,
+        "name": "Super Duty F-250 SRW",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 930"
+    },
+    {
+        "id": 31455,
+        "name": "Super Duty F-350 DRW",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 930"
+    },
+    {
+        "id": 31454,
+        "name": "Super Duty F-350 SRW",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 930"
+    },
+    {
+        "id": 31437,
+        "name": "Super Duty F-450 DRW",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 930"
+    },
+    {
+        "id": 31841,
+        "name": "EcoSport",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-08-14T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31809,
+        "name": "Escape",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-07-26T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31816,
+        "name": "Expedition",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-08-13T07:00:00.000Z",
+        "dataEffectiveDate": "2019-04-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31702,
+        "name": "Explorer",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-06-28T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-26T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-06T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31553,
+        "name": "Transit Connect Wagon",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-31T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31707,
+        "name": "Transit Passenger Wagon",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-07-03T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": "PLC 940"
+    },
+    {
+        "id": 31683,
+        "name": "Transit Connect Van",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-06-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31706,
+        "name": "Transit Van",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-07-10T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": "PLC 940"
+    },
+    {
+        "id": 31439,
+        "name": "Super Duty F-350 DRW",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-03T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 930"
+    },
+    {
+        "id": 31440,
+        "name": "Super Duty F-350 SRW",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-03T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 930"
+    },
+    {
+        "id": 31438,
+        "name": "Super Duty F-450 DRW",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 930"
+    },
+    {
+        "id": 31458,
+        "name": "Super Duty F-550 DRW",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-05-03T07:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 930"
+    },
+    {
+        "id": 31593,
+        "name": "E-Series Cutaway",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-06-06T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-20T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31594,
+        "name": "E-Series Stripped Chassis",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-06-06T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-20T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-03T07:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31322,
+        "name": "F-59 Commercial Stripped Chassis",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-03-19T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2019-11-15T08:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31323,
+        "name": "F-53 Motorhome Stripped Chassis",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-03-21T07:00:00.000Z",
+        "dataEffectiveDate": "2019-04-15T07:00:00.000Z",
+        "dataReleaseDate": "2019-11-15T08:00:00.000Z",
+        "dataComment": "PLC 925"
+    },
+    {
+        "id": 31723,
+        "name": "Transit Chassis Cab",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-07-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 940"
+    },
+    {
+        "id": 31724,
+        "name": "Transit Cutaway",
+        "year": 2019,
+        "makeId": 13,
+        "initialPriceDate": "2018-07-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-06-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": "PLC 940"
+    }]
+}]

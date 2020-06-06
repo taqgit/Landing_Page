@@ -1,0 +1,134 @@
+[
+{
+    "models": [
+    {
+        "id": 31443,
+        "name": "Arteon",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-04-24T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31720,
+        "name": "Atlas",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31693,
+        "name": "Beetle",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-06T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31694,
+        "name": "Beetle Convertible",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-06T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31705,
+        "name": "e-Golf",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-01T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31745,
+        "name": "Golf",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31757,
+        "name": "Golf Alltrack",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-18T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31717,
+        "name": "Golf GTI",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-06T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31725,
+        "name": "Golf R",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-06T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31738,
+        "name": "Golf SportWagen",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-10T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31166,
+        "name": "Jetta",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-01-21T08:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31719,
+        "name": "Passat",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-06T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31729,
+        "name": "Tiguan",
+        "year": 2019,
+        "makeId": 40,
+        "initialPriceDate": "2018-07-10T07:00:00.000Z",
+        "dataEffectiveDate": "2019-05-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-22T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

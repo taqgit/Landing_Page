@@ -1,0 +1,194 @@
+[
+{
+    "models": [
+    {
+        "id": 32087,
+        "name": "370Z Coupe",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2018-12-19T08:00:00.000Z",
+        "dataEffectiveDate": "2019-04-16T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32155,
+        "name": "370Z Roadster",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2018-12-24T08:00:00.000Z",
+        "dataEffectiveDate": "2019-03-01T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32378,
+        "name": "Altima",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-04-09T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32187,
+        "name": "GT-R",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-01-22T08:00:00.000Z",
+        "dataEffectiveDate": "2019-06-14T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-05T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32836,
+        "name": "Kicks",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-08-07T07:00:00.000Z",
+        "dataEffectiveDate": "2019-11-12T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33104,
+        "name": "LEAF",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-11-13T08:00:00.000Z",
+        "dataEffectiveDate": "2019-12-20T08:00:00.000Z",
+        "dataReleaseDate": "2020-02-04T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32380,
+        "name": "Maxima",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-04-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-15T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33181,
+        "name": "Sentra",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-12-17T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32289,
+        "name": "Armada",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-03-12T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-20T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-04T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33235,
+        "name": "Frontier",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2020-01-27T08:00:00.000Z",
+        "dataEffectiveDate": "2019-11-22T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": "PRICES TO FOLLOW"
+    },
+    {
+        "id": 32494,
+        "name": "Murano",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-05-15T07:00:00.000Z",
+        "dataEffectiveDate": "2019-11-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32646,
+        "name": "NV200 Compact Cargo",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-06-07T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-29T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-05T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32614,
+        "name": "NV Cargo",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-06-12T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32657,
+        "name": "NV Passenger",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-06-07T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32659,
+        "name": "Pathfinder",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-06-17T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-27T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32457,
+        "name": "Qashqai",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-05-06T07:00:00.000Z",
+        "dataEffectiveDate": "2019-08-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32426,
+        "name": "Rogue",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-04-24T07:00:00.000Z",
+        "dataEffectiveDate": "2020-04-01T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-23T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33056,
+        "name": "Titan",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-10-17T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-29T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 33203,
+        "name": "Titan XD",
+        "year": 2020,
+        "makeId": 30,
+        "initialPriceDate": "2019-12-24T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-29T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-11T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

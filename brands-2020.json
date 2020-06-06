@@ -1,0 +1,144 @@
+[
+{
+    "brands": [
+    {
+        "id": 1,
+        "name": "Acura"
+    },
+    {
+        "id": 43,
+        "name": "Alfa Romeo"
+    },
+    {
+        "id": 4,
+        "name": "Audi"
+    },
+    {
+        "id": 5,
+        "name": "BMW"
+    },
+    {
+        "id": 6,
+        "name": "Buick"
+    },
+    {
+        "id": 7,
+        "name": "Cadillac"
+    },
+    {
+        "id": 8,
+        "name": "Chevrolet"
+    },
+    {
+        "id": 9,
+        "name": "Chrysler"
+    },
+    {
+        "id": 11,
+        "name": "Dodge"
+    },
+    {
+        "id": 59,
+        "name": "FIAT"
+    },
+    {
+        "id": 13,
+        "name": "Ford"
+    },
+    {
+        "id": 15,
+        "name": "GMC"
+    },
+    {
+        "id": 62,
+        "name": "Genesis"
+    },
+    {
+        "id": 16,
+        "name": "Honda"
+    },
+    {
+        "id": 17,
+        "name": "Hyundai"
+    },
+    {
+        "id": 18,
+        "name": "INFINITI"
+    },
+    {
+        "id": 20,
+        "name": "Jaguar"
+    },
+    {
+        "id": 21,
+        "name": "Jeep"
+    },
+    {
+        "id": 22,
+        "name": "Kia"
+    },
+    {
+        "id": 23,
+        "name": "Land Rover"
+    },
+    {
+        "id": 24,
+        "name": "Lexus"
+    },
+    {
+        "id": 25,
+        "name": "Lincoln"
+    },
+    {
+        "id": 2,
+        "name": "MINI"
+    },
+    {
+        "id": 26,
+        "name": "Mazda"
+    },
+    {
+        "id": 27,
+        "name": "Mercedes-Benz"
+    },
+    {
+        "id": 29,
+        "name": "Mitsubishi"
+    },
+    {
+        "id": 30,
+        "name": "Nissan"
+    },
+    {
+        "id": 34,
+        "name": "Porsche"
+    },
+    {
+        "id": 57,
+        "name": "Ram"
+    },
+    {
+        "id": 37,
+        "name": "Subaru"
+    },
+    {
+        "id": 56,
+        "name": "Tesla"
+    },
+    {
+        "id": 39,
+        "name": "Toyota"
+    },
+    {
+        "id": 40,
+        "name": "Volkswagen"
+    },
+    {
+        "id": 41,
+        "name": "Volvo"
+    },
+    {
+        "id": 42,
+        "name": "smart"
+    }]
+}]

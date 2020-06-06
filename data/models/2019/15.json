@@ -1,0 +1,134 @@
+[
+{
+    "models": [
+    {
+        "id": 31380,
+        "name": "Canyon",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-05-22T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31222,
+        "name": "Sierra 1500 Limited",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-03-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31336,
+        "name": "Sierra 1500",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-07-03T07:00:00.000Z",
+        "dataEffectiveDate": "2019-07-03T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31305,
+        "name": "Sierra 2500HD",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-03-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-14T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31250,
+        "name": "Sierra 3500HD",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-03-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31410,
+        "name": "Acadia",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-04-24T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31348,
+        "name": "Terrain",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-04-10T07:00:00.000Z",
+        "dataEffectiveDate": "2018-10-04T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-08T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31444,
+        "name": "Yukon",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-05-08T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31445,
+        "name": "Yukon XL",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-05-08T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-27T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31572,
+        "name": "Savana Passenger",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-06-19T07:00:00.000Z",
+        "dataEffectiveDate": "2018-07-25T07:00:00.000Z",
+        "dataReleaseDate": "2020-04-10T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31585,
+        "name": "Savana Cargo Van",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-06-19T07:00:00.000Z",
+        "dataEffectiveDate": "2018-07-25T07:00:00.000Z",
+        "dataReleaseDate": "2019-12-19T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31265,
+        "name": "Sierra 3500HD CC",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-03-27T07:00:00.000Z",
+        "dataEffectiveDate": "2019-01-16T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-09T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31586,
+        "name": "Savana Commercial Cutaway",
+        "year": 2019,
+        "makeId": 15,
+        "initialPriceDate": "2018-06-19T07:00:00.000Z",
+        "dataEffectiveDate": "2018-07-25T07:00:00.000Z",
+        "dataReleaseDate": "2020-02-28T08:00:00.000Z",
+        "dataComment": ""
+    }]
+}]

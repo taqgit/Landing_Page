@@ -1,0 +1,194 @@
+[
+{
+    "models": [
+    {
+        "id": 31471,
+        "name": "86",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-07-17T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31189,
+        "name": "Avalon",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-05-08T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31766,
+        "name": "Camry",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-09-19T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31625,
+        "name": "Corolla",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-06-19T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-01-23T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31731,
+        "name": "Corolla Hatchback",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-07-12T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32154,
+        "name": "Mirai",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-12-27T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32178,
+        "name": "Prius",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2019-01-30T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31611,
+        "name": "Prius c",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-08-10T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-02-01T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32094,
+        "name": "Prius Prime",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-12-20T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-02-12T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31875,
+        "name": "Sienna",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-08-22T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-03-24T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31187,
+        "name": "Yaris Hatchback",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-11-09T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-02-01T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32048,
+        "name": "Yaris Sedan",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-10-07T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-01-04T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31837,
+        "name": "4Runner",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-08-14T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-03-07T08:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31332,
+        "name": "C-HR",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-05-21T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-21T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31743,
+        "name": "Highlander",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-09-14T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 32091,
+        "name": "RAV4",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2019-01-07T08:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31942,
+        "name": "Sequoia",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-09-05T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31741,
+        "name": "Tacoma",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-09-27T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    },
+    {
+        "id": 31896,
+        "name": "Tundra",
+        "year": 2019,
+        "makeId": 39,
+        "initialPriceDate": "2018-09-01T07:00:00.000Z",
+        "dataEffectiveDate": "2020-01-03T08:00:00.000Z",
+        "dataReleaseDate": "2020-04-13T07:00:00.000Z",
+        "dataComment": ""
+    }]
+}]
