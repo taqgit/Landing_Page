@@ -1,5 +1,5 @@
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
     "@type": "LiveBlogPosting",
     "url": "https://amp.dev/documentation/examples/news-publishing/live_blog/",
     "articleBody": "This is the initial text in the blog post",
