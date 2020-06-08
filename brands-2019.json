@@ -2,10 +2,6 @@
 {
     "brands": [
     {
-        "id": 5,
-        "name": "BMW"
-    },
-    {
         "id": 6,
         "name": "Buick"
     },
@@ -22,16 +18,8 @@
         "name": "GMC"
     },
     {
-        "id": 20,
-        "name": "Jaguar"
-    },
-    {
         "id": 22,
         "name": "Kia"
-    },
-    {
-        "id": 2,
-        "name": "MINI"
     },
     {
         "id": 30,
