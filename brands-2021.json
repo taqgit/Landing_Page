@@ -2,10 +2,6 @@
 {
     "brands": [
     {
-        "id": 1,
-        "name": "Acura"
-    },
-    {
         "id": 6,
         "name": "Buick"
     },
@@ -18,40 +14,12 @@
         "name": "Chevrolet"
     },
     {
-        "id": 9,
-        "name": "Chrysler"
-    },
-    {
-        "id": 11,
-        "name": "Dodge"
-    },
-    {
-        "id": 59,
-        "name": "FIAT"
-    },
-    {
         "id": 13,
         "name": "Ford"
     },
     {
-        "id": 15,
-        "name": "GMC"
-    },
-    {
-        "id": 16,
-        "name": "Honda"
-    },
-    {
-        "id": 17,
-        "name": "Hyundai"
-    },
-    {
         "id": 18,
         "name": "INFINITI"
-    },
-    {
-        "id": 21,
-        "name": "Jeep"
     },
     {
         "id": 22,
@@ -62,28 +30,8 @@
         "name": "Lexus"
     },
     {
-        "id": 25,
-        "name": "Lincoln"
-    },
-    {
-        "id": 26,
-        "name": "Mazda"
-    },
-    {
-        "id": 29,
-        "name": "Mitsubishi"
-    },
-    {
         "id": 30,
         "name": "Nissan"
-    },
-    {
-        "id": 57,
-        "name": "Ram"
-    },
-    {
-        "id": 37,
-        "name": "Subaru"
     },
     {
         "id": 39,
