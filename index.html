@@ -195,38 +195,7 @@
                 <!-- end Youtube-box-->
             </div>
         </section>
-<!--         <section class="section section_find-car section_margin-b-md">
-            <div class="container container_lg">
-                <form class="find-car-box" method="get" action="https://carmazon.herokuapp.com/registration" target="_top">
-                    <amp-list height="75" items="." src="years.json" binding="refresh">
-                        <template type="amp-mustache">
-                            <select class="select-box select-box_margin-b-xs-2" name="carYear" required="required" on="change: AMP.setState({ carSelect: { year: event.value, selectYear: true, selectBrand: false } })">
-                                <option value="" selected disabled>Select Year</option>{{#years}}
-                                <option value="{{year}}">{{year}}</option>{{/years}}
-                            </select>
-                        </template>
-                    </amp-list>
-                    <amp-list height="75" items="." src="brands-2020.json" [src]="'brands-' + carSelect.year + '.json'" binding="refresh">
-                        <template type="amp-mustache">
-                            <select class="select-box select-box_margin-b-xs-2" name="carBrand" required="required" disabled="disabled" [disabled]="!carSelect.selectYear" on="change: AMP.setState({ carSelect: { brand: event.value, selectBrand: true } })">
-                                <option value="" selected disabled>Select Brand</option>{{#brands}}
-                                <option value="{{id}}">{{name}}</option>{{/brands}}
-                            </select>
-                        </template>
-                    </amp-list>
-                    <amp-list height="75" items="." src="data/models/2019/6.json" [src]="'data/models/' + carSelect.year  + '/' + carSelect.brand + '.json'" binding="refresh">
-                        <template type="amp-mustache">
-                            <select class="select-box select-box_margin-b-xs-2" id="model" name="carModel" required="required" disabled="disabled" [disabled]="!carSelect.selectBrand" on="change: AMP.setState({ carSelect: { model: event.value } })">
-                                <option value="" selected disabled>Select Model</option>{{#models}}
-                                <option value="{{id}}">{{name}}</option>{{/models}}
-                            </select>
-                        </template>
-                    </amp-list>
-                    <button class="btn btn_primary-color btn_fontello btn_full-width" type="submit"><span class="btn__text">Find Car</span>
-                    </button>
-                </form>
-            </div>
-        </section> -->
+
         <section class="section section_infographic section_bg-light-blue">
             <div class="container container_lg">
                 <div class="section-header section-header_infographic">
