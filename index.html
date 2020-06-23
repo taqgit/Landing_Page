@@ -25,16 +25,14 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
     <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
-    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
-    <script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>
-    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+    
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
+    <!-- <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script> -->
+
     <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
-    <script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
-    <script async custom-element="amp-live-list" src="https://cdn.ampproject.org/v0/amp-live-list-0.1.js"></script>
-    <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
     <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+     
     <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
     <script async custom-element="amp-date-countdown" src="https://cdn.ampproject.org/v0/amp-date-countdown-0.1.js"></script>
 
@@ -124,7 +122,7 @@
               </div>
               </br>
               </br>
-              <amp-date-countdown end-date="2020-06-22T03:12:08.000Z"
+              <amp-date-countdown end-date="2020-06-24T03:12:08.000Z"
               offset-seconds="-10"
               layout="fixed-height"
                 height="140">
@@ -140,43 +138,20 @@
             </div>
 
             <div class="container container_lg" style="max-width: 560px">
-              <form class="find-car-box" method="get" action="https://securedcarmazon.com" target="_top">
-		        <button disabled style="margin-top: 20px;" class="btn btn_primary-color btn_fontello btn_full-width"><span class="btn__text">Find Car</span></button>
-              </form>
-	      <a style="margin-top: 20px;" class="btn btn_primary-color btn_fontello btn_full-width contact_btn" href="contact.html"><span class="btn__text">Contact Us</span></a>
+
+		        <!-- <form action="https://secures.carmazonglobal.com/" target="_top"> -->
+                    <button  style="margin-top: 20px;" class="btn btn_primary-color btn_fontello btn_full-width"><span class="btn__text">Find Car</span></button>
+                <!-- </form> -->
+                <!-- When you need to enable the button remove the above button and uncomment the anchor below -->
+                
+                <!-- <a href="https://secures.carmazonglobal.com/" class="btn btn_primary-color btn_fontello btn_full-width"><span class="btn__text">Find Car</span></a> -->
+
+
+                <a style="margin-top: 20px;" class="btn btn_primary-color btn_fontello btn_full-width contact_btn" href="contact.html"><span class="btn__text">Contact Us</span></a>
             </div>
 
 
-            <div class="container container_lg" style="display:none;">
-                <form class="find-car-box" method="get" action="https://securedcarmazon.com" target="_top">
-                    <amp-list height="75" items="." src="years.json" binding="refresh">
-                        <template type="amp-mustache">
-                            <select class="select-box select-box_margin-b-xs-2" name="carYear" required="required" on="change: AMP.setState({ carSelect: { year: event.value, selectYear: true, selectBrand: false } })">
-                                <option value="" selected disabled>Select Year</option>{{#years}}
-                                <option value="{{year}}">{{year}}</option>{{/years}}
-                            </select>
-                        </template>
-                    </amp-list>
-                    <amp-list height="75" items="." src="brands-2020.json" [src]="'brands-' + carSelect.year + '.json'" binding="refresh">
-                        <template type="amp-mustache">
-                            <select class="select-box select-box_margin-b-xs-2" name="carBrand" required="required" disabled="disabled" [disabled]="!carSelect.selectYear" on="change: AMP.setState({ carSelect: { brand: event.value, selectBrand: true } })">
-                                <option value="" selected disabled>Select Brand</option>{{#brands}}
-                                <option value="{{id}}">{{name}}</option>{{/brands}}
-                            </select>
-                        </template>
-                    </amp-list>
-                    <amp-list height="75" items="." src="data/models/2019/6.json" [src]="'data/models/' + carSelect.year  + '/' + carSelect.brand + '.json'" binding="refresh">
-                        <template type="amp-mustache">
-                            <select class="select-box select-box_margin-b-xs-2" id="model" name="carModel" required="required" disabled="disabled" [disabled]="!carSelect.selectBrand" on="change: AMP.setState({ carSelect: { model: event.value } })">
-                                <option value="" selected disabled>Select Model</option>{{#models}}
-                                <option value="{{id}}">{{name}}</option>{{/models}}
-                            </select>
-                        </template>
-                    </amp-list>-->
-                    <button disabled class="btn btn_primary-color btn_fontello btn_full-width" type="submit"><span class="btn__text">Find Car</span>
-                    </button>
-                </form>
-            </div>
+            
         </section>
         <section class="section section_video section_video-up pos-relative">
             <div class="container container_lg">
