@@ -125,7 +125,7 @@
             </amp-img>
 
             <span class="section__white-semicircle">
-                
+
             </span>
         </section>
 
@@ -135,17 +135,20 @@
             <div class="container container_lg" style="max-width: 560px">
 
                 <a href="https://secured.carmazonglobal.com/" class="btn btn_primary-color btn_fontello btn_full-width"><span class="btn__text">Find Car</span></a>
-
-
                 <a style="margin-top: 20px;" class="btn btn_primary-color btn_fontello btn_full-width contact_btn" href="contact.html"><span class="btn__text">Contact Us</span></a>
-            </div>            
+
+                <a style="margin-top: 20px;" class="" href="">
+                    <amp-img src="img/contact.jpeg" height="195" width="427" layout="responsive"></amp-img>
+                </a>
+
+            </div>
         </section>
 
         <amp-bind-macro id="getIndex"
           arguments="index"
           expression="index< 0 ? 4-1 : index">
         </amp-bind-macro>
-        
+
         <div class="testimonial-section">
           <h2 class="section-header__title text-transform-u">Listen to <span class="display-i-b">“Our Clients”</span></h2>
           <section class="section section_carousel" style="position: relative;height: 700px;">
@@ -206,7 +209,7 @@
                 </div>
                  <div style="position: absolute;width: 352px;top:600px;">
                     <div style="display: flex;justify-content: center;">
-                        
+
                     <div tabindex="0"  on="tap:AMP.setState({ index: 0 })" class="the-dot-button active" [class]="getIndex(index) == 0 ? 'the-dot-button active': 'the-dot-button' " role="button" title="Previous item in carousel">.</div>
                     <div tabindex="0"  on="tap:AMP.setState({ index: 1 })" class="the-dot-button" [class]="getIndex(index) == 1 ? 'the-dot-button active': 'the-dot-button' " role="button" title="Previous item in carousel">.</div>
                     <div tabindex="0"  on="tap:AMP.setState({ index: 2 })" class="the-dot-button" [class]="getIndex(index) == 2 ? 'the-dot-button active': 'the-dot-button' " role="button" title="Previous item in carousel">.</div>
@@ -222,7 +225,7 @@
             <div class="container container_lg">
                 <h1 class="section__title-page text-align-c">Introducing the future of car buying
                 </h1>
-            
+
                 <div class="youtube-box">
                     <amp-video class="youtube-box__player" id="lBTCB7yLs8Y-id" width="358" height="204" layout="responsive" poster="img/youtube-placeholder.png" controls="controls">
                         <source src="video/final-promo.webm" type="video/webm" />
