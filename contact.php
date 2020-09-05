@@ -18,7 +18,7 @@
 		$headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
 
 		$headers .= "From: Carmazon<'".$from."'>\r\n";
-		
+
 		$res;
 		if(mail($to,$subject,$body,$headers)){
 		  $res = array('submitted' => true);
@@ -27,7 +27,7 @@
 		else {
 			$res = array('submitted' => false);
 		}
-		echo json_encode($res);	
+		echo json_encode($res);
 	}
 
 	function post_data($url){
@@ -42,7 +42,12 @@
 	if(isset($_POST)){
 		$fullname = $_POST['fullname'];
 		$email = $_POST['email'];
-		$message = $_POST['message'];
+		if($_POST['message']){
+			$message = $_POST['message'];
+		}
+		elseif ($_POST['phone']) {
+			$message = $_POST['phone'];
+		}
 		// $url = "https://k7lj0tpl5j.execute-api.ca-central-1.amazonaws.com/dev/signup" -H "accept: application/json" -H "Content-Type: application/json" -d "{\"name\":\"".$full_name."\",\"surname\":\"\",\"email\":\"".$email."\",\"password\":\"Password1!\",\"phone\":\"4164161234\",\"postalCode\":\"L5M4Z5\",\"address\":\"string\",\"isEmailVerified\":false,\"isPhoneVerified\":false}"
 		// $url = "https://www.google.com";
 		// post_data($url);
